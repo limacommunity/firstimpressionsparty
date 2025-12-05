@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-img_20251204_181341_00_049",
-      "name": "IMG_20251204_181341_00_049",
+      "id": "0-first-impressions---2025-christmas-party",
+      "name": "First Impressions - 2025 Christmas Party",
       "levels": [
         {
           "tileSize": 256,
