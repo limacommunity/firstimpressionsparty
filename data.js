@@ -32,7 +32,7 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "Project Title",
+  "name": "First Impressions - 2025 Christmas Party",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
