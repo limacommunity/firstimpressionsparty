@@ -290,5 +290,13 @@ div class="music-controls">
         if (isPlaying) defaultMusic.play();
       }
     }
+	
+	 // Auto-play music on first user interaction
+    document.addEventListener('click', () => {
+      if (!isPlaying) {
+        playMusic();
+      }
+    }, { once: true });
+	
 </script>
   
